@@ -13,23 +13,15 @@
 	</head>
 	<body>
 
-		<div class="card-deck">
-			<div class="card">
-				<div class="card-body">
-					<h4 class="card-title">Card title</h4>
-					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-				</div>
-			</div>
-			<div class="card">
-				<div class="card-body">
-					<h4 class="card-title">Card title</h4>
-					<p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-				</div>
-			</div>
-			<div class="card">
-				<div class="card-body">
-					<h4 class="card-title">Card title</h4>
-					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+		<div class="container">
+			<div class="col-md-9">
+				<div class="card m-1 flex-grow">
+					<a href="https://losol.no/familie-og-barn/derfor-knytter-vi-oss-sa-sterkt-til-ting/">
+						<img width="1920" height="1080" src="volunteer_2015a.jpg"> </a>
+					<div class="card-img-caption">
+						<h3 class="card-title"><a class="link-no-decoration " href="https://losol.no/familie-og-barn/derfor-knytter-vi-oss-sa-sterkt-til-ting/">Derfor knytter vi oss så sterkt til ting</a></h3>
+
+					</div>
 				</div>
 			</div>
 		</div>

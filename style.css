@@ -1,0 +1,21 @@
+.card-img-caption {
+	transition: 0.3s;
+	bottom: 0;
+	background: rgba(66, 66, 66, 0.36);
+	padding: 0.5em;
+	position: absolute;
+	left: 0;
+	text-align: left;
+	color: slategrey;
+	width: 100%;
+	max-height: 100%;
+}
+
+.card-img-caption a {
+	color: #eee;
+}
+
+.card:hover .card-img-caption{
+	opacity: 1;
+	background: #ffb963;
+}
